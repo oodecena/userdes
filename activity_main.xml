@@ -7,6 +7,8 @@
     tools:context=".MainActivity">
 
     <!-- inspiration of sci cal layout was from an iPhone Layout -->
+    <!-- was just skimming through android studio so some lines may have errors -->
+
 
     <LinearLayout
         android:id="@+id/buttons_layout"
